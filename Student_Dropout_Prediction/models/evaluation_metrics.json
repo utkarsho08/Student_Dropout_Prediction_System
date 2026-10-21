@@ -1,0 +1,24 @@
+{
+    "Logistic Regression": {
+        "Accuracy": 0.8067,
+        "Precision": 0.6585,
+        "Recall": 0.3803,
+        "F1_Score": 0.4821,
+        "ROC_AUC": 0.7893
+    },
+    "Random Forest": {
+        "Accuracy": 0.7967,
+        "Precision": 0.6667,
+        "Recall": 0.2817,
+        "F1_Score": 0.396,
+        "ROC_AUC": 0.7705
+    },
+    "XGBoost": {
+        "Accuracy": 0.7933,
+        "Precision": 0.5957,
+        "Recall": 0.3944,
+        "F1_Score": 0.4746,
+        "ROC_AUC": 0.7632
+    },
+    "Best_Model": "Logistic Regression"
+}

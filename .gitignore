@@ -1,0 +1,23 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (do not push to GitHub)
+venv/
+env/
+ENV/
+
+# System and editor files
+.DS_Store
+.vscode/
+
+# Streamlit local state
+.streamlit/
+
+# Log files
+logs/*.log
+*.log
+
+# Large binary models or cache (optional, but keep if you want models on GitHub)
+# models/*.pkl
